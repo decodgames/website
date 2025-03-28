@@ -1,0 +1,21 @@
+.termsmain {
+    width: 80%;
+}
+.decodlogo {
+    height: 150px;
+    width: 200px;
+    padding-top: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.containermain {
+    /* padding: 2rem; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.paragraphs{
+    margin-left: 23px;
+}
