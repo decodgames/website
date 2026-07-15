@@ -1,0 +1,104 @@
+{
+  "privacyPolicy": {
+    "intro": {
+      "content": "Effective date: July 15, 2026\n\nDecod Games creates and publishes hybrid and hyper-casual games. This Privacy Policy explains how we collect, use, share, and protect information when you play our games, use our websites, or interact with our services."
+    },
+    "informationWeCollect": {
+      "heading": "Information We Collect",
+      "content": "We may collect information that helps us operate, improve, secure, and monetize our games. This may include device information, advertising identifiers, gameplay events, crash reports, diagnostics, approximate location derived from IP address, language, country or region, app version, operating system, and interactions with ads or in-app features.\n\nIf a game includes optional account, support, contest, leaderboard, reward, or feedback features, we may collect information you choose to provide, such as your name, email address, support messages, nickname, score, or prize delivery details."
+    },
+    "howWeUseInformation": {
+      "heading": "How We Use Information",
+      "content": "We use information to provide and maintain our games, improve gameplay, fix bugs, prevent fraud or abuse, respond to support requests, run optional promotions or rewards, measure performance, understand how players use our games, personalize content where permitted, and show ads that help keep many of our games free to play."
+    },
+    "adsAnalytics": {
+      "heading": "Advertising, Analytics, and Third-Party Services",
+      "content": "Our games may use third-party advertising, attribution, analytics, crash reporting, hosting, and platform services. These partners may collect or receive information from your device according to their own privacy policies. Depending on the game and platform, these services may include ad networks, analytics providers, app stores, cloud services, and social or leaderboard services.\n\nThird-party partners may use advertising identifiers and similar technologies to show contextual or personalized ads, measure ad performance, limit repeated ads, detect fraud, and improve their services. You can usually reset or limit your advertising identifier in your device settings."
+    },
+    "children": {
+      "heading": "Children's Privacy",
+      "content": "Our games are intended for a general audience unless a specific game states otherwise. We do not knowingly collect personal information from children under the age required by applicable law without appropriate consent. If you believe a child has provided personal information to us, please contact us through the support channel listed on the relevant game's store page so we can review and take appropriate action."
+    },
+    "dataSharing": {
+      "heading": "How We Share Information",
+      "content": "We may share information with service providers and partners who help us operate our games, provide analytics, deliver ads, detect fraud, process support requests, host services, comply with law, or protect the rights, safety, and security of Decod Games, our players, and others. We may also share information if our business or assets are transferred as part of a merger, acquisition, financing, restructuring, or similar transaction."
+    },
+    "dataRetention": {
+      "heading": "Data Retention",
+      "content": "We keep information for as long as needed to provide our games and services, meet legal obligations, resolve disputes, enforce agreements, maintain security, and improve our products. Retention periods may vary depending on the type of information, the game, platform requirements, and our legitimate business needs."
+    },
+    "choices": {
+      "heading": "Your Choices and Rights",
+      "content": "You may be able to limit ad tracking, reset your advertising identifier, manage app permissions, disable notifications, or delete game data through your device or platform settings. Depending on your location, you may have rights to access, correct, delete, restrict, or object to certain processing of your personal information. To make a request, contact us through the support channel listed on the relevant game's store page."
+    },
+    "security": {
+      "heading": "Security",
+      "content": "We use reasonable administrative, technical, and organizational safeguards designed to protect information. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security."
+    },
+    "internationalTransfers": {
+      "heading": "International Transfers",
+      "content": "Decod Games and our service providers may process information in countries other than the country where you live. These countries may have data protection laws that differ from your local laws. Where required, we use appropriate safeguards for international transfers."
+    },
+    "updates": {
+      "heading": "Changes to This Privacy Policy",
+      "content": "We may update this Privacy Policy from time to time. When we make changes, we will update the effective date above. Your continued use of our games or services after an update means the revised policy applies to you."
+    },
+    "contact": {
+      "heading": "Contact Us",
+      "content": "If you have questions, requests, or concerns about this Privacy Policy, please contact Decod Games through the support channel listed on the applicable game's app store page."
+    }
+  },
+  "tos": {
+    "intro": {
+      "content": "Effective date: July 15, 2026\n\nThese Terms and Conditions govern your use of games, websites, and services provided by Decod Games. By downloading, accessing, or using our games or services, you agree to these terms."
+    },
+    "useOfServices": {
+      "heading": "Use of Our Games and Services",
+      "content": "You may use our games and services for personal, non-commercial entertainment purposes only. You agree not to misuse the services, interfere with their operation, attempt unauthorized access, modify or reverse engineer any part of the services except where allowed by law, use cheats or unauthorized automation, exploit bugs, or use the services in a way that harms Decod Games, other players, or third parties."
+    },
+    "ageAndResponsibility": {
+      "heading": "Age and Responsibility",
+      "content": "You must be old enough to use our games under the laws of your country or have permission from a parent or legal guardian. If you are a parent or guardian and allow a child to use our games, you are responsible for the child's activity and compliance with these terms."
+    },
+    "virtualItems": {
+      "heading": "Virtual Items and In-App Purchases",
+      "content": "Some games may offer virtual currency, items, rewards, subscriptions, or other digital content. These items have no real-world cash value, are licensed rather than sold, and may be changed, limited, suspended, or removed where permitted by law. Purchases are handled by the applicable app store or payment provider and are subject to their terms and refund policies."
+    },
+    "advertising": {
+      "heading": "Advertising and Rewards",
+      "content": "Our games may include ads, rewarded ads, sponsored content, or links to third-party services. Third-party services are not controlled by Decod Games and may have their own terms and policies. Rewards may be unavailable, delayed, changed, or limited due to technical issues, platform rules, fraud prevention, or other operational reasons."
+    },
+    "userContent": {
+      "heading": "User Content",
+      "content": "If a game allows you to submit names, messages, feedback, scores, images, or other content, you are responsible for that content. You grant Decod Games a worldwide, non-exclusive, royalty-free license to use, host, store, display, reproduce, modify, and distribute that content for operating, improving, promoting, and supporting our games and services. Do not submit content that is unlawful, harmful, infringing, abusive, deceptive, or violates another person's rights."
+    },
+    "intellectualProperty": {
+      "heading": "Intellectual Property",
+      "content": "Decod Games owns or licenses the games, software, artwork, characters, logos, names, audio, designs, code, and other content in our services. These terms do not transfer ownership of any intellectual property rights to you."
+    },
+    "availability": {
+      "heading": "Service Availability and Changes",
+      "content": "We may update, modify, suspend, or discontinue any game or service, including features, content, ads, rewards, virtual items, and availability, at any time where permitted by law. We may also restrict access if we believe these terms have been violated or if needed to protect players, partners, platforms, or Decod Games."
+    },
+    "disclaimers": {
+      "heading": "Disclaimers",
+      "content": "Our games and services are provided on an as-is and as-available basis. To the maximum extent permitted by law, Decod Games disclaims warranties of any kind, including warranties of merchantability, fitness for a particular purpose, title, non-infringement, uninterrupted availability, accuracy, and error-free operation."
+    },
+    "limitationOfLiability": {
+      "heading": "Limitation of Liability",
+      "content": "To the maximum extent permitted by law, Decod Games will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of profits, data, goodwill, or other intangible losses arising from or related to your use of our games or services."
+    },
+    "termination": {
+      "heading": "Termination",
+      "content": "You may stop using our games at any time. We may suspend or terminate access to any game or service if we believe you violated these terms, created risk or legal exposure, or used the services in a harmful or unauthorized way."
+    },
+    "changes": {
+      "heading": "Changes to These Terms",
+      "content": "We may update these Terms and Conditions from time to time. When we make changes, we will update the effective date above. Your continued use of our games or services after an update means you accept the revised terms."
+    },
+    "contact": {
+      "heading": "Contact",
+      "content": "For questions about these Terms and Conditions, contact Decod Games through the support channel listed on the applicable game's app store page."
+    }
+  }
+}
