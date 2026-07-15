@@ -7,14 +7,31 @@ const PrivacyPolicy = () => {
     const [termsOfService, setTermsOfService] = useState({});
 
     useEffect(() => {
-        fetch('https://flight2987.web.app/policy.json')
-            .then(response => response.json())
-            .then(data => {
-                console.log(data);
-                setPrivacyPolicy(data.privacyPolicy);
-                setTermsOfService(data.tos);
-            })
-            .catch(error => console.error('Error fetching data: ', error));
+        const loadPolicy = async () => {
+            const policyUrls = [...new Set([
+                `${process.env.PUBLIC_URL}/policy.json`,
+                '/policy.json'
+            ])];
+
+            for (const url of policyUrls) {
+                try {
+                    const response = await fetch(url);
+
+                    if (!response.ok) {
+                        continue;
+                    }
+
+                    const data = await response.json();
+                    setPrivacyPolicy(data.privacyPolicy);
+                    setTermsOfService(data.tos);
+                    return;
+                } catch (error) {
+                    console.error('Error fetching data: ', error);
+                }
+            }
+        };
+
+        loadPolicy();
 
         return () => {
             console.log("unMount");
@@ -49,10 +66,10 @@ const PrivacyPolicy = () => {
                     if (value.heading) {
                         return <div key={key}>
                             <h3>{value.heading}</h3>
-                            <p className="paragraph">{value.content}</p>
+                            <div className="paragraph" dangerouslySetInnerHTML={{ __html: value.content.replaceAll('\n','<br>') }} />
                         </div>
                     } else {
-                        return <p className="paragraph" key={key}>{value.content}</p>
+                        return <div className="paragraph" key={key} dangerouslySetInnerHTML={{ __html: value.content.replaceAll('\n','<br>') }} />
                     }
                 })}
 
